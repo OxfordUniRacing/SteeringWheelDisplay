@@ -1,4 +1,11 @@
 # FT810-FT813
+------------------------------------------------------------------
+MOST RECENT UPDATE:
+FTDI CHIP DATA SHEET (ver 1.1) --> https://www.ftdichip.com/old2020/Support/Documents/DataSheets/Modules/DS_VM810C.pdf
+NEWHAVEN SCREEN DATASHEET --> https://www.mouser.co.uk/datasheet/2/291/NHD_5_0_800480TF_ASXN-2953215.pdf
+
+-------------------------------------------------------------------
+
 This is a code library for EVE/EVE2 graphics controller ICs from FTDI/Bridgetek:
 
 http://www.ftdichip.com/EVE.htm
